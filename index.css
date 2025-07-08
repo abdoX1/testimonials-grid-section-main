@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+}
+
+.card {
+  background-color: #eee;
+  padding: 1rem;
+}
+.card > div {
+  display: flex;
+  align-items: center;
+}
+.card div span:first-of-type {
+  
+}
+.card div span:not(:first-of-type) {
+  
+}
+
+img {
+  border-radius: 50%;
+}
